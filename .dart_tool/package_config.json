@@ -141,9 +141,9 @@
     },
     {
       "name": "pinenacl",
-      "rootUri": "file:///Users/dora/.pub-cache/hosted/pub.dev/pinenacl-0.5.1",
+      "rootUri": "file:///Users/dora/.pub-cache/hosted/pub.dev/pinenacl-0.6.0",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.4"
     },
     {
       "name": "pool",
@@ -284,7 +284,10 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-10-03T06:00:09.785779Z",
+  "generated": "2025-03-05T07:36:30.372445Z",
   "generator": "pub",
-  "generatorVersion": "3.1.2"
+  "generatorVersion": "3.4.4",
+  "flutterRoot": "file:///Users/dora/fvm/versions/3.22.3",
+  "flutterVersion": "3.22.3",
+  "pubCache": "file:///Users/dora/.pub-cache"
 }

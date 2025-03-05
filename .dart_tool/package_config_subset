@@ -91,9 +91,9 @@ path
 file:///Users/dora/.pub-cache/hosted/pub.dev/path-1.8.3/
 file:///Users/dora/.pub-cache/hosted/pub.dev/path-1.8.3/lib/
 pinenacl
-2.17
-file:///Users/dora/.pub-cache/hosted/pub.dev/pinenacl-0.5.1/
-file:///Users/dora/.pub-cache/hosted/pub.dev/pinenacl-0.5.1/lib/
+3.4
+file:///Users/dora/.pub-cache/hosted/pub.dev/pinenacl-0.6.0/
+file:///Users/dora/.pub-cache/hosted/pub.dev/pinenacl-0.6.0/lib/
 pool
 2.12
 file:///Users/dora/.pub-cache/hosted/pub.dev/pool-1.5.1/
@@ -184,6 +184,6 @@ file:///Users/dora/.pub-cache/hosted/pub.dev/yaml-3.1.2/
 file:///Users/dora/.pub-cache/hosted/pub.dev/yaml-3.1.2/lib/
 ed25519_hd_key
 2.12
-file:///Users/dora/flutter_lib_local/ed25519_hd_key-2.2.1/
-file:///Users/dora/flutter_lib_local/ed25519_hd_key-2.2.1/lib/
+file:///Users/dora/testwork/ed25519_hd_key/
+file:///Users/dora/testwork/ed25519_hd_key/lib/
 2
